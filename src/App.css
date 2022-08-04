@@ -1,0 +1,147 @@
+.App {
+  text-align: center;
+  margin:0;
+  padding: 0;
+  font-family:sans-serif;
+}
+.topnav {
+  background-color: #101010;
+  overflow: hidden;
+  display: flex;
+  /* justify-items: center; */
+  align-items: center;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  font-size: 27px;
+}
+
+
+
+/* Create a right-aligned (split) link inside the navigation bar */
+.split1 {
+  position: absolute;
+  right: 1rem;
+
+
+  
+  color: white;
+}
+.split{
+ 
+  font-size: 18px!important;
+  color: white;
+  
+
+}
+a.pimage{
+display: flex;
+align-items: center;
+}
+.split1 img{
+ 
+  margin-left: 1rem;
+  width:2.5rem!important;
+object-fit: cover;
+max-width: 100%;
+max-height: 100%;
+border-radius: 50%;
+
+}
+.split1:focus{
+  border: none!important;
+}
+.mainbody{
+  background-color: #383838;
+  /* width: 100%; */
+  /* height: 100%; */
+  /* border: 1px solid #E5E5E5; */
+}
+.filters{
+  display: flex;
+  height: 3rem;
+  /* padding: 15px; */
+  /* justify-content: space-between; */
+  background-color: #383838;
+ 
+}
+.filters button{
+  margin:0px 10px;
+  padding:20px 20px;
+  list-style: none;
+  font-size: 16px;
+  border: none;
+  background-color: #383838;
+  color: #D0CBCB;
+ 
+}
+.filters button:focus{
+  color: #ffffff;
+  border-bottom: 2px solid white;
+}
+.container{
+ background-color:  #171717;
+ display: flex;
+ /* justify-content: center; */
+ align-items: center;
+ height: 16rem;
+ margin: 1rem 2rem;
+ border-radius: 2px;
+}
+.imagecontainer{
+  position: relative;
+  height: 12rem;
+  width: 18rem;
+  margin: 1.5rem;
+border-radius: 2px;
+  background-color: #f2f2f2;
+ /* overflow: hidden; */
+}
+
+.imagecontainer img{
+  /* position: absolute; */
+  height: 12rem;
+  width: 18rem;
+  object-fit: fill;
+  /* max-width: 100%; */
+  /* max-height: 100%; */
+}
+.detailsholder{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-size: 19px;
+  color: white;
+}
+.detailsholder div{
+  margin: 0.4rem 0.4rem!important;
+}
+.citycontaner{
+  display: flex;
+  list-style: none;
+}
+.citycontaner div{
+  display: flex;
+  
+}
+
+.split2 {
+  position: absolute;
+  right: 3rem;
+  
+
+
+  
+  color: white;
+}
+.citycontaner div li{
+ margin: 0 1rem;
+ background-color: #101010;
+  
+}
