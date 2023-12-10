@@ -70,6 +70,8 @@ function App() {
                 <div>Date :{i.date}</div>
                 <div>Distance : 0</div>
                 //ygjyg
+
+                //jfdhew hj
               </div>
             </div>
           );
