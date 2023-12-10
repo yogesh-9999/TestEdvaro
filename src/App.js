@@ -29,7 +29,7 @@ function App() {
         <div className="split1">
           <a href="#contact" className="split"></a>
           <a className="split pimage">
-            Dhruv singh
+            Dhruv uguguysingh
             <img
               src={
                 "https://img.izismile.com/img/img3/20100428/640/she_makes_random_640_01.jpg"
