@@ -25,11 +25,11 @@ function App() {
   return (
     <div className="App">
       <div className="topnav">
-        <a href="#home">Edvora</a>
+        <a href="#ho  me">Edvora</a>
         <div className="split1">
           <a href="#contact" className="split"></a>
           <a className="split pimage">
-            Dhruv singh
+            Dhruv uguguysingh
             <img
               src={
                 "https://img.izismile.com/img/img3/20100428/640/she_makes_random_640_01.jpg"
@@ -59,6 +59,7 @@ function App() {
               </div>
               <div className="detailsholder">
                 <div className="citycontaner">
+                  <div>bhavesvhvhvv hghvghgghvh</div>
                   Ride Id : {i.id}
                   <div className="split2">
                     <li>{i.city}</li>
