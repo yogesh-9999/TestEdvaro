@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <div className="topnav">
-        <a href="#home">Edvora</a>
+        <a href="#ho  me">Edvora</a>
         <div className="split1">
           <a href="#contact" className="split"></a>
           <a className="split pimage">
