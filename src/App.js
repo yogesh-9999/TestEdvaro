@@ -59,7 +59,7 @@ function App() {
               </div>
               <div className="detailsholder">
                 <div className="citycontaner">
-                  <div>bhavesvhvhvghvh</div>
+                  <div>bhavesvhvhvv hghvghgghvh</div>
                   Ride Id : {i.id}
                   <div className="split2">
                     <li>{i.city}</li>
