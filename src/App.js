@@ -9,7 +9,7 @@ function App() {
       .then((data) => {console.log(data);
       setStore(data);});
       const filtered = store.filter(i => {
-        return i.state === "Telangana";
+        return i.state === "Telanjiuo8o8p9gana";
       });
       setStore(filtered);
     
